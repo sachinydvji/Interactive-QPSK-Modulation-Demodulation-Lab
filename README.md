@@ -10,10 +10,10 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Rajeev Bhagel
+<b>Name of Developer | <b> Sachin yadav
 :--|:--|
 <b> Institute | <b>  Rajikiya Engineering Collage Kannauj
-<b> Email id|     <b>  rajeev@reck.ac.in
+<b> Email id|     <b>  sachin26405yadav@gmail.com
 <b> Department |  Electronics engineering
 
 ### Contributors List
